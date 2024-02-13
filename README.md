@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
+<h1>Coming Soon!</h1>
+<!--
 - <b>Project 1</b>
   - [Link to Project Repo](Link)
 - <b>Project 2</b>
@@ -17,7 +19,7 @@
   - [Link to Project Repo](s)
 - <b>Project 5</b>
   - [Link to Project Repo](s)
-
+-->
 
 <h2> 🤳 Connect with me:</h2>
 
