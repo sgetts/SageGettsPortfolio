@@ -30,7 +30,7 @@
 
 <!--
 
-Here are some ideas to get you started:
+Future Ideas:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
