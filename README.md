@@ -21,7 +21,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin]: https://www.linkedin.com/in/sagegetts/
+<a href="https://www.linkedin.com/in/sagegetts/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width: 32px; height: 32px;">
+</a>
+
 
 <!--
 
