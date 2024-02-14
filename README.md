@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sage! <br/><a href="https://github.com/sgetts/SageGettsPortfolio">Cyber Security Enthusiastic</a>, <a href="https://www.linkedin.com/in/sagegetts/">Jr IT Systems Administrator</a></h1>
+<h1>Hi, I'm Sage! <br/><a href="https://github.com/sgetts/SageGettsPortfolio">Cyber Security Enthusiastic</a>, <a href="https://www.linkedin.com/in/sagegetts/">IT Systems Administrator</a></h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
