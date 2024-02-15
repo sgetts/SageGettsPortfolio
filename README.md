@@ -2,7 +2,9 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-<h1>Coming Soon!</h1>
+<h2> <a href="https://github.com/sgetts/ADLab">Active Directory Lab</a> </h2>
+
+<h1>More Coming Soon!</h1>
 <!--
 - <b>Project 1</b>
   - [Link to Project Repo](Link)
