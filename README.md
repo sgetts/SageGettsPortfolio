@@ -9,6 +9,10 @@
 
 
 <h1>More Coming Soon!</h1>
+
+<h1>Certifications:</h1>
+<h3>CompTIA Security+</h3>
+<h3>OSCP (In Progress) (October-2025)</h3>
 <!--
 - <b>Project 1</b>
   - [Link to Project Repo](Link)
