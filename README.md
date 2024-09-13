@@ -5,7 +5,7 @@
 <h2> <a href="https://github.com/sgetts/ADLab">Active Directory Lab</a> </h2>
 
 <h1>EXOS Cyber Club - Mentoring & Knowledge Sharing</h1>
-<h4>I founded the Exos CySec Club at my company, where a colleague from our Cyber division and I mentor employees in real-world offensive and defensive cybersecurity methodologies. In this club, I teach hands-on pentesting skills, defensive strategies, and cutting-edge cybersecurity tools. Our focus is on enhancing practical skills that directly impact our work, empowering team members to stay ahead in the rapidly evolving cybersecurity landscape. The club fosters a collaborative environment where we explore challenges, share knowledge, and grow as a team.</h4>
+<h4>I founded the Exos CySec Club at my company, where a work colleague from our Cyber division and I mentor employees in real-world offensive and defensive cybersecurity methodologies. In this club, I teach hands-on pentesting skills, defensive strategies, and cutting-edge cybersecurity tools. Our focus is on enhancing practical skills that directly impact our work, empowering team members to stay ahead in the rapidly evolving cybersecurity landscape. The club fosters a collaborative environment where we explore challenges, share knowledge, and grow as a team.</h4>
 
 
 <h1>More Coming Soon!</h1>
