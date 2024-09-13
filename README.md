@@ -1,5 +1,8 @@
 <h1>Hi, I'm Sage! <br/><a href="https://github.com/sgetts/SageGettsPortfolio">Cyber Security Enthusiastic</a>, <a href="https://www.linkedin.com/in/sagegetts/">T2 Network Engineer</a></h1>
 
+<h1>Sage Getts - T2 Network Engineer (T3 Team)</h1>
+<h3>I'm a passionate IT professional with a strong focus on IT security, working alongside senior engineers to ensure secure and efficient network operations. As the security-focused member of the team, I leverage my skills in cybersecurity to enhance security measures and processes.</h3>
+
 <h2>👨‍💻 IT Projects:</h2>
 
 <h2> <a href="https://github.com/sgetts/ADLab">Active Directory Lab</a> </h2>
