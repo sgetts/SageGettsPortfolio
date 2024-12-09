@@ -40,6 +40,8 @@
 
 <h5>My Course Training Discord Server</h5>
 <a href="https://discord.gg/kxErEsjvHE" title="Discord Server">Certifications/HomeLab Course Discord Server</a>
+<h5>My Pen-200 Study Discord Server</h5>
+<a href="https://discord.gg/kxErEsjvHE" title="Pen-200 Server">OSCP Study Support Server</a>
 
 
 <h2>Connect with me:</h2>
